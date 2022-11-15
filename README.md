@@ -12,7 +12,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/lucashaay">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashaay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashaay&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="center" alt="lofi-gifs" height="150" style="border-radius:50px;" src="https://discord.com/channels/340642580624834570/1041910844281327616/1041911073265160262"> 
 </div>
 <div align="center" style="display: inline_block"><br>
   <img alt="JavaScript" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
